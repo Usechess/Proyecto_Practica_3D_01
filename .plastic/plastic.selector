@@ -1,0 +1,3 @@
+repository "Proyecto_Practica_3D_01/Proyecto_Practica_3D_01@4674235986306@cloud"
+  path "/"
+    smartbranch "/main"
